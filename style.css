@@ -1,0 +1,19 @@
+body{
+	background-color: #FF934B;
+	background-image: url('images/lyon.jpg');
+
+}
+h1{
+	color: white;/*  couleur du texte */
+	text-align: center;
+	text-transform: uppercase;/*mettre en MAJ*/
+	background-color: grey;
+}
+p{
+	background-color: black;
+	color: white;
+	font-size: 1.2em;
+}
+table{
+	background: white;
+}
